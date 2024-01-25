@@ -1,0 +1,1156 @@
+[
+  {
+    "id": 1,
+    "date": "17-01",
+    "value": "fajr",
+    "name": "Fajar",
+    "time": "05:30 AM",
+    "next": "sunrise",
+    "place": "Kozhikode"
+  },
+  {
+    "id": 2,
+    "date": "17-01",
+    "value": "sunrise",
+    "name": "Sunrise",
+    "time": "06:49 AM",
+    "next": "dhuhr",
+    "place": "Kozhikode"
+  },
+  {
+    "id": 3,
+    "date": "17-01",
+    "value": "dhuhr",
+    "name": "Dhuhr",
+    "time": "12:39 PM",
+    "next": "asr",
+    "place": "Kozhikode"
+  },
+  {
+    "id": 4,
+    "date": "17-01",
+    "value": "asr",
+    "name": "Asr",
+    "time": "03:58 PM",
+    "next": "maghrib",
+    "place": "Kozhikode"
+  },
+  {
+    "id": 5,
+    "date": "17-01",
+    "value": "maghrib",
+    "name": "Maghrib",
+    "time": "06:26 PM",
+    "next": "isha",
+    "place": "Kozhikode"
+  },
+  {
+    "id": 6,
+    "date": "17-01",
+    "value": "isha",
+    "name": "Isha'a",
+    "time": "07:40 PM",
+    "next": "fajr",
+    "place": "Kozhikode"
+  },
+
+  {
+    "id": 1,
+    "date": "18-01",
+    "value": "fajr",
+    "name": "Fajar",
+    "time": "05:30 AM",
+    "next": "sunrise",
+    "place": "Kozhikode"
+  },
+  {
+    "id": 2,
+    "date": "18-01",
+    "value": "sunrise",
+    "name": "Sunrise",
+    "time": "06:49 AM",
+    "next": "dhuhr",
+    "place": "Kozhikode"
+  },
+  {
+    "id": 3,
+    "date": "18-01",
+    "value": "dhuhr",
+    "name": "Dhuhr",
+    "time": "12:39 PM",
+    "next": "asr",
+    "place": "Kozhikode"
+  },
+  {
+    "id": 4,
+    "date": "18-01",
+    "value": "asr",
+    "name": "Asr",
+    "time": "03:58 PM",
+    "next": "maghrib",
+    "place": "Kozhikode"
+  },
+  {
+    "id": 5,
+    "date": "18-01",
+    "value": "maghrib",
+    "name": "Maghrib",
+    "time": "06:26 PM",
+    "next": "isha",
+    "place": "Kozhikode"
+  },
+  {
+    "id": 6,
+    "date": "18-01",
+    "value": "isha",
+    "name": "Isha'a",
+    "time": "07:40 PM",
+    "next": "fajr",
+    "place": "Kozhikode"
+  },
+
+  {
+    "id": 1,
+    "date": "19-01",
+    "value": "fajr",
+    "name": "Fajar",
+    "time": "05:30 AM",
+    "next": "sunrise",
+    "place": "Kozhikode"
+  },
+  {
+    "id": 2,
+    "date": "19-01",
+    "value": "sunrise",
+    "name": "Sunrise",
+    "time": "06:50 AM",
+    "next": "dhuhr",
+    "place": "Kozhikode"
+  },
+  {
+    "id": 3,
+    "date": "19-01",
+    "value": "dhuhr",
+    "name": "Dhuhr",
+    "time": "12:40 PM",
+    "next": "asr",
+    "place": "Kozhikode"
+  },
+  {
+    "id": 4,
+    "date": "19-01",
+    "value": "asr",
+    "name": "Asr",
+    "time": "03:59 PM",
+    "next": "maghrib",
+    "place": "Kozhikode"
+  },
+  {
+    "id": 5,
+    "date": "19-01",
+    "value": "maghrib",
+    "name": "Maghrib",
+    "time": "06:27 PM",
+    "next": "isha",
+    "place": "Kozhikode"
+  },
+  {
+    "id": 6,
+    "date": "19-01",
+    "value": "isha",
+    "name": "Isha'a",
+    "time": "07:41 PM",
+    "next": "fajr",
+    "place": "Kozhikode"
+  },
+
+  {
+    "id": 1,
+    "date": "20-01",
+    "value": "fajr",
+    "name": "Fajar",
+    "time": "05:30 AM",
+    "next": "sunrise",
+    "place": "Kozhikode"
+  },
+  {
+    "id": 2,
+    "date": "20-01",
+    "value": "sunrise",
+    "name": "Sunrise",
+    "time": "06:50 AM",
+    "next": "dhuhr",
+    "place": "Kozhikode"
+  },
+  {
+    "id": 3,
+    "date": "20-01",
+    "value": "dhuhr",
+    "name": "Dhuhr",
+    "time": "12:40 PM",
+    "next": "asr",
+    "place": "Kozhikode"
+  },
+  {
+    "id": 4,
+    "date": "20-01",
+    "value": "asr",
+    "name": "Asr",
+    "time": "03:59 PM",
+    "next": "maghrib",
+    "place": "Kozhikode"
+  },
+  {
+    "id": 5,
+    "date": "20-01",
+    "value": "maghrib",
+    "name": "Maghrib",
+    "time": "06:27 PM",
+    "next": "isha",
+    "place": "Kozhikode"
+  },
+  {
+    "id": 6,
+    "date": "20-01",
+    "value": "isha",
+    "name": "Isha'a",
+    "time": "07:41 PM",
+    "next": "fajr",
+    "place": "Kozhikode"
+  },
+
+  {
+    "id": 1,
+    "date": "21-01",
+    "value": "fajr",
+    "name": "Fajar",
+    "time": "05:30 AM",
+    "next": "sunrise",
+    "place": "Kozhikode"
+  },
+  {
+    "id": 2,
+    "date": "21-01",
+    "value": "sunrise",
+    "name": "Sunrise",
+    "time": "06:50 AM",
+    "next": "dhuhr",
+    "place": "Kozhikode"
+  },
+  {
+    "id": 3,
+    "date": "21-01",
+    "value": "dhuhr",
+    "name": "Dhuhr",
+    "time": "12:40 PM",
+    "next": "asr",
+    "place": "Kozhikode"
+  },
+  {
+    "id": 4,
+    "date": "21-01",
+    "value": "asr",
+    "name": "Asr",
+    "time": "03:59 PM",
+    "next": "maghrib",
+    "place": "Kozhikode"
+  },
+  {
+    "id": 5,
+    "date": "21-01",
+    "value": "maghrib",
+    "name": "Maghrib",
+    "time": "06:27 PM",
+    "next": "isha",
+    "place": "Kozhikode"
+  },
+  {
+    "id": 6,
+    "date": "21-01",
+    "value": "isha",
+    "name": "Isha'a",
+    "time": "07:41 PM",
+    "next": "fajr",
+    "place": "Kozhikode"
+  },
+
+  {
+    "id": 1,
+    "date": "22-01",
+    "value": "fajr",
+    "name": "Fajar",
+    "time": "05:31 AM",
+    "next": "sunrise",
+    "place": "Kozhikode"
+  },
+  {
+    "id": 2,
+    "date": "22-01",
+    "value": "sunrise",
+    "name": "Sunrise",
+    "time": "06:50 AM",
+    "next": "dhuhr",
+    "place": "Kozhikode"
+  },
+  {
+    "id": 3,
+    "date": "22-01",
+    "value": "dhuhr",
+    "name": "Dhuhr",
+    "time": "12:41 PM",
+    "next": "asr",
+    "place": "Kozhikode"
+  },
+  {
+    "id": 4,
+    "date": "22-01",
+    "value": "asr",
+    "name": "Asr",
+    "time": "04:00 PM",
+    "next": "maghrib",
+    "place": "Kozhikode"
+  },
+  {
+    "id": 5,
+    "date": "22-01",
+    "value": "maghrib",
+    "name": "Maghrib",
+    "time": "06:28 PM",
+    "next": "isha",
+    "place": "Kozhikode"
+  },
+  {
+    "id": 6,
+    "date": "22-01",
+    "value": "isha",
+    "name": "Isha'a",
+    "time": "07:42 PM",
+    "next": "fajr",
+    "place": "Kozhikode"
+  },
+
+  {
+    "id": 1,
+    "date": "23-01",
+    "value": "fajr",
+    "name": "Fajar",
+    "time": "05:31 AM",
+    "next": "sunrise",
+    "place": "Kozhikode"
+  },
+  {
+    "id": 2,
+    "date": "23-01",
+    "value": "sunrise",
+    "name": "Sunrise",
+    "time": "06:50 AM",
+    "next": "dhuhr",
+    "place": "Kozhikode"
+  },
+  {
+    "id": 3,
+    "date": "23-01",
+    "value": "dhuhr",
+    "name": "Dhuhr",
+    "time": "12:41 PM",
+    "next": "asr",
+    "place": "Kozhikode"
+  },
+  {
+    "id": 4,
+    "date": "23-01",
+    "value": "asr",
+    "name": "Asr",
+    "time": "04:00 PM",
+    "next": "maghrib",
+    "place": "Kozhikode"
+  },
+  {
+    "id": 5,
+    "date": "23-01",
+    "value": "maghrib",
+    "name": "Maghrib",
+    "time": "06:28 PM",
+    "next": "isha",
+    "place": "Kozhikode"
+  },
+  {
+    "id": 6,
+    "date": "23-01",
+    "value": "isha",
+    "name": "Isha'a",
+    "time": "07:42 PM",
+    "next": "fajr",
+    "place": "Kozhikode"
+  },
+
+  {
+    "id": 1,
+    "date": "24-01",
+    "value": "fajr",
+    "name": "Fajar",
+    "time": "05:31 AM",
+    "next": "sunrise",
+    "place": "Kozhikode"
+  },
+  {
+    "id": 2,
+    "date": "24-01",
+    "value": "sunrise",
+    "name": "Sunrise",
+    "time": "06:50 AM",
+    "next": "dhuhr",
+    "place": "Kozhikode"
+  },
+  {
+    "id": 3,
+    "date": "24-01",
+    "value": "dhuhr",
+    "name": "Dhuhr",
+    "time": "12:41 PM",
+    "next": "asr",
+    "place": "Kozhikode"
+  },
+  {
+    "id": 4,
+    "date": "24-01",
+    "value": "asr",
+    "name": "Asr",
+    "time": "04:00 PM",
+    "next": "maghrib",
+    "place": "Kozhikode"
+  },
+  {
+    "id": 5,
+    "date": "24-01",
+    "value": "maghrib",
+    "name": "Maghrib",
+    "time": "06:28 PM",
+    "next": "isha",
+    "place": "Kozhikode"
+  },
+  {
+    "id": 6,
+    "date": "24-01",
+    "value": "isha",
+    "name": "Isha'a",
+    "time": "07:42 PM",
+    "next": "fajr",
+    "place": "Kozhikode"
+  },
+
+  {
+    "id": 1,
+    "date": "25-01",
+    "value": "fajr",
+    "name": "Fajar",
+    "time": "05:31 AM",
+    "next": "sunrise",
+    "place": "Kozhikode"
+  },
+  {
+    "id": 2,
+    "date": "25-01",
+    "value": "sunrise",
+    "name": "Sunrise",
+    "time": "06:50 AM",
+    "next": "dhuhr",
+    "place": "Kozhikode"
+  },
+  {
+    "id": 3,
+    "date": "25-01",
+    "value": "dhuhr",
+    "name": "Dhuhr",
+    "time": "12:41 PM",
+    "next": "asr",
+    "place": "Kozhikode"
+  },
+  {
+    "id": 4,
+    "date": "25-01",
+    "value": "asr",
+    "name": "Asr",
+    "time": "04:01 PM",
+    "next": "maghrib",
+    "place": "Kozhikode"
+  },
+  {
+    "id": 5,
+    "date": "25-01",
+    "value": "maghrib",
+    "name": "Maghrib",
+    "time": "06:30 PM",
+    "next": "isha",
+    "place": "Kozhikode"
+  },
+  {
+    "id": 6,
+    "date": "25-01",
+    "value": "isha",
+    "name": "Isha'a",
+    "time": "07:43 PM",
+    "next": "fajr",
+    "place": "Kozhikode"
+  },
+
+  {
+    "id": 1,
+    "date": "26-01",
+    "value": "fajr",
+    "name": "Fajar",
+    "time": "05:31 AM",
+    "next": "sunrise",
+    "place": "Kozhikode"
+  },
+  {
+    "id": 2,
+    "date": "26-01",
+    "value": "sunrise",
+    "name": "Sunrise",
+    "time": "06:50 AM",
+    "next": "dhuhr",
+    "place": "Kozhikode"
+  },
+  {
+    "id": 3,
+    "date": "26-01",
+    "value": "dhuhr",
+    "name": "Dhuhr",
+    "time": "12:41 PM",
+    "next": "asr",
+    "place": "Kozhikode"
+  },
+  {
+    "id": 4,
+    "date": "26-01",
+    "value": "asr",
+    "name": "Asr",
+    "time": "04:01 PM",
+    "next": "maghrib",
+    "place": "Kozhikode"
+  },
+  {
+    "id": 5,
+    "date": "26-01",
+    "value": "maghrib",
+    "name": "Maghrib",
+    "time": "06:30 PM",
+    "next": "isha",
+    "place": "Kozhikode"
+  },
+  {
+    "id": 6,
+    "date": "26-01",
+    "value": "isha",
+    "name": "Isha'a",
+    "time": "07:43 PM",
+    "next": "fajr",
+    "place": "Kozhikode"
+  },
+
+  {
+    "id": 1,
+    "date": "27-01",
+    "value": "fajr",
+    "name": "Fajar",
+    "time": "05:31 AM",
+    "next": "sunrise",
+    "place": "Kozhikode"
+  },
+  {
+    "id": 2,
+    "date": "27-01",
+    "value": "sunrise",
+    "name": "Sunrise",
+    "time": "06:50 AM",
+    "next": "dhuhr",
+    "place": "Kozhikode"
+  },
+  {
+    "id": 3,
+    "date": "27-01",
+    "value": "dhuhr",
+    "name": "Dhuhr",
+    "time": "12:41 PM",
+    "next": "asr",
+    "place": "Kozhikode"
+  },
+  {
+    "id": 4,
+    "date": "27-01",
+    "value": "asr",
+    "name": "Asr",
+    "time": "04:01 PM",
+    "next": "maghrib",
+    "place": "Kozhikode"
+  },
+  {
+    "id": 5,
+    "date": "27-01",
+    "value": "maghrib",
+    "name": "Maghrib",
+    "time": "06:30 PM",
+    "next": "isha",
+    "place": "Kozhikode"
+  },
+  {
+    "id": 6,
+    "date": "27-01",
+    "value": "isha",
+    "name": "Isha'a",
+    "time": "07:43 PM",
+    "next": "fajr",
+    "place": "Kozhikode"
+  },
+
+  {
+    "id": 1,
+    "date": "28-01",
+    "value": "fajr",
+    "name": "Fajar",
+    "time": "05:32 AM",
+    "next": "sunrise",
+    "place": "Kozhikode"
+  },
+  {
+    "id": 2,
+    "date": "28-01",
+    "value": "sunrise",
+    "name": "Sunrise",
+    "time": "06:50 AM",
+    "next": "dhuhr",
+    "place": "Kozhikode"
+  },
+  {
+    "id": 3,
+    "date": "28-01",
+    "value": "dhuhr",
+    "name": "Dhuhr",
+    "time": "12:42 PM",
+    "next": "asr",
+    "place": "Kozhikode"
+  },
+  {
+    "id": 4,
+    "date": "28-01",
+    "value": "asr",
+    "name": "Asr",
+    "time": "04:02 PM",
+    "next": "maghrib",
+    "place": "Kozhikode"
+  },
+  {
+    "id": 5,
+    "date": "28-01",
+    "value": "maghrib",
+    "name": "Maghrib",
+    "time": "06:31 PM",
+    "next": "isha",
+    "place": "Kozhikode"
+  },
+  {
+    "id": 6,
+    "date": "28-01",
+    "value": "isha",
+    "name": "Isha'a",
+    "time": "07:44 PM",
+    "next": "fajr",
+    "place": "Kozhikode"
+  },
+
+  {
+    "id": 1,
+    "date": "29-01",
+    "value": "fajr",
+    "name": "Fajar",
+    "time": "05:32 AM",
+    "next": "sunrise",
+    "place": "Kozhikode"
+  },
+  {
+    "id": 2,
+    "date": "29-01",
+    "value": "sunrise",
+    "name": "Sunrise",
+    "time": "06:50 AM",
+    "next": "dhuhr",
+    "place": "Kozhikode"
+  },
+  {
+    "id": 3,
+    "date": "29-01",
+    "value": "dhuhr",
+    "name": "Dhuhr",
+    "time": "12:42 PM",
+    "next": "asr",
+    "place": "Kozhikode"
+  },
+  {
+    "id": 4,
+    "date": "29-01",
+    "value": "asr",
+    "name": "Asr",
+    "time": "04:02 PM",
+    "next": "maghrib",
+    "place": "Kozhikode"
+  },
+  {
+    "id": 5,
+    "date": "29-01",
+    "value": "maghrib",
+    "name": "Maghrib",
+    "time": "06:31 PM",
+    "next": "isha",
+    "place": "Kozhikode"
+  },
+  {
+    "id": 6,
+    "date": "29-01",
+    "value": "isha",
+    "name": "Isha'a",
+    "time": "07:44 PM",
+    "next": "fajr",
+    "place": "Kozhikode"
+  },
+
+  {
+    "id": 1,
+    "date": "30-01",
+    "value": "fajr",
+    "name": "Fajar",
+    "time": "05:32 AM",
+    "next": "sunrise",
+    "place": "Kozhikode"
+  },
+  {
+    "id": 2,
+    "date": "30-01",
+    "value": "sunrise",
+    "name": "Sunrise",
+    "time": "06:50 AM",
+    "next": "dhuhr",
+    "place": "Kozhikode"
+  },
+  {
+    "id": 3,
+    "date": "30-01",
+    "value": "dhuhr",
+    "name": "Dhuhr",
+    "time": "12:42 PM",
+    "next": "asr",
+    "place": "Kozhikode"
+  },
+  {
+    "id": 4,
+    "date": "30-01",
+    "value": "asr",
+    "name": "Asr",
+    "time": "04:02 PM",
+    "next": "maghrib",
+    "place": "Kozhikode"
+  },
+  {
+    "id": 5,
+    "date": "30-01",
+    "value": "maghrib",
+    "name": "Maghrib",
+    "time": "06:31 PM",
+    "next": "isha",
+    "place": "Kozhikode"
+  },
+  {
+    "id": 6,
+    "date": "30-01",
+    "value": "isha",
+    "name": "Isha'a",
+    "time": "07:44 PM",
+    "next": "fajr",
+    "place": "Kozhikode"
+  },
+
+  {
+    "id": 1,
+    "date": "31-01",
+    "value": "fajr",
+    "name": "Fajar",
+    "time": "05:32 AM",
+    "next": "sunrise",
+    "place": "Kozhikode"
+  },
+  {
+    "id": 2,
+    "date": "31-01",
+    "value": "sunrise",
+    "name": "Sunrise",
+    "time": "06:50 AM",
+    "next": "dhuhr",
+    "place": "Kozhikode"
+  },
+  {
+    "id": 3,
+    "date": "31-01",
+    "value": "dhuhr",
+    "name": "Dhuhr",
+    "time": "12:42 PM",
+    "next": "asr",
+    "place": "Kozhikode"
+  },
+  {
+    "id": 4,
+    "date": "31-01",
+    "value": "asr",
+    "name": "Asr",
+    "time": "04:02 PM",
+    "next": "maghrib",
+    "place": "Kozhikode"
+  },
+  {
+    "id": 5,
+    "date": "31-01",
+    "value": "maghrib",
+    "name": "Maghrib",
+    "time": "06:31 PM",
+    "next": "isha",
+    "place": "Kozhikode"
+  },
+  {
+    "id": 6,
+    "date": "31-01",
+    "value": "isha",
+    "name": "Isha'a",
+    "time": "07:44 PM",
+    "next": "fajr",
+    "place": "Kozhikode"
+  },
+
+  {
+    "id": 1,
+    "date": "01-02",
+    "value": "fajr",
+    "name": "Fajar",
+    "time": "05:32 AM",
+    "next": "sunrise",
+    "place": "Kozhikode"
+  },
+  {
+    "id": 2,
+    "date": "01-02",
+    "value": "sunrise",
+    "name": "Sunrise",
+    "time": "06:50 AM",
+    "next": "dhuhr",
+    "place": "Kozhikode"
+  },
+  {
+    "id": 3,
+    "date": "01-02",
+    "value": "dhuhr",
+    "name": "Dhuhr",
+    "time": "12:43 PM",
+    "next": "asr",
+    "place": "Kozhikode"
+  },
+  {
+    "id": 4,
+    "date": "01-02",
+    "value": "asr",
+    "name": "Asr",
+    "time": "04:03 PM",
+    "next": "maghrib",
+    "place": "Kozhikode"
+  },
+  {
+    "id": 5,
+    "date": "01-02",
+    "value": "maghrib",
+    "name": "Maghrib",
+    "time": "06:33 PM",
+    "next": "isha",
+    "place": "Kozhikode"
+  },
+  {
+    "id": 6,
+    "date": "01-02",
+    "value": "isha",
+    "name": "Isha'a",
+    "time": "07:45 PM",
+    "next": "fajr",
+    "place": "Kozhikode"
+  },
+
+  {
+    "id": 1,
+    "date": "02-02",
+    "value": "fajr",
+    "name": "Fajar",
+    "time": "05:32 AM",
+    "next": "sunrise",
+    "place": "Kozhikode"
+  },
+  {
+    "id": 2,
+    "date": "02-02",
+    "value": "sunrise",
+    "name": "Sunrise",
+    "time": "06:50 AM",
+    "next": "dhuhr",
+    "place": "Kozhikode"
+  },
+  {
+    "id": 3,
+    "date": "02-02",
+    "value": "dhuhr",
+    "name": "Dhuhr",
+    "time": "12:43 PM",
+    "next": "asr",
+    "place": "Kozhikode"
+  },
+  {
+    "id": 4,
+    "date": "02-02",
+    "value": "asr",
+    "name": "Asr",
+    "time": "04:03 PM",
+    "next": "maghrib",
+    "place": "Kozhikode"
+  },
+  {
+    "id": 5,
+    "date": "02-02",
+    "value": "maghrib",
+    "name": "Maghrib",
+    "time": "06:33 PM",
+    "next": "isha",
+    "place": "Kozhikode"
+  },
+  {
+    "id": 6,
+    "date": "02-02",
+    "value": "isha",
+    "name": "Isha'a",
+    "time": "07:45 PM",
+    "next": "fajr",
+    "place": "Kozhikode"
+  },
+
+  {
+    "id": 1,
+    "date": "03-02",
+    "value": "fajr",
+    "name": "Fajar",
+    "time": "05:32 AM",
+    "next": "sunrise",
+    "place": "Kozhikode"
+  },
+  {
+    "id": 2,
+    "date": "03-02",
+    "value": "sunrise",
+    "name": "Sunrise",
+    "time": "06:50 AM",
+    "next": "dhuhr",
+    "place": "Kozhikode"
+  },
+  {
+    "id": 3,
+    "date": "03-02",
+    "value": "dhuhr",
+    "name": "Dhuhr",
+    "time": "12:43 PM",
+    "next": "asr",
+    "place": "Kozhikode"
+  },
+  {
+    "id": 4,
+    "date": "03-02",
+    "value": "asr",
+    "name": "Asr",
+    "time": "04:03 PM",
+    "next": "maghrib",
+    "place": "Kozhikode"
+  },
+  {
+    "id": 5,
+    "date": "03-02",
+    "value": "maghrib",
+    "name": "Maghrib",
+    "time": "06:33 PM",
+    "next": "isha",
+    "place": "Kozhikode"
+  },
+  {
+    "id": 6,
+    "date": "03-02",
+    "value": "isha",
+    "name": "Isha'a",
+    "time": "07:45 PM",
+    "next": "fajr",
+    "place": "Kozhikode"
+  },
+
+  {
+    "id": 1,
+    "date": "04-02",
+    "value": "fajr",
+    "name": "Fajar",
+    "time": "05:32 AM",
+    "next": "sunrise",
+    "place": "Kozhikode"
+  },
+  {
+    "id": 2,
+    "date": "04-02",
+    "value": "sunrise",
+    "name": "Sunrise",
+    "time": "06:49 AM",
+    "next": "dhuhr",
+    "place": "Kozhikode"
+  },
+  {
+    "id": 3,
+    "date": "04-02",
+    "value": "dhuhr",
+    "name": "Dhuhr",
+    "time": "12:43 PM",
+    "next": "asr",
+    "place": "Kozhikode"
+  },
+  {
+    "id": 4,
+    "date": "04-02",
+    "value": "asr",
+    "name": "Asr",
+    "time": "04:03 PM",
+    "next": "maghrib",
+    "place": "Kozhikode"
+  },
+  {
+    "id": 5,
+    "date": "04-02",
+    "value": "maghrib",
+    "name": "Maghrib",
+    "time": "06:34 PM",
+    "next": "isha",
+    "place": "Kozhikode"
+  },
+  {
+    "id": 6,
+    "date": "04-02",
+    "value": "isha",
+    "name": "Isha'a",
+    "time": "07:46 PM",
+    "next": "fajr",
+    "place": "Kozhikode"
+  },
+
+  {
+    "id": 1,
+    "date": "05-02",
+    "value": "fajr",
+    "name": "Fajar",
+    "time": "05:32 AM",
+    "next": "sunrise",
+    "place": "Kozhikode"
+  },
+  {
+    "id": 2,
+    "date": "05-02",
+    "value": "sunrise",
+    "name": "Sunrise",
+    "time": "06:49 AM",
+    "next": "dhuhr",
+    "place": "Kozhikode"
+  },
+  {
+    "id": 3,
+    "date": "05-02",
+    "value": "dhuhr",
+    "name": "Dhuhr",
+    "time": "12:43 PM",
+    "next": "asr",
+    "place": "Kozhikode"
+  },
+  {
+    "id": 4,
+    "date": "05-02",
+    "value": "asr",
+    "name": "Asr",
+    "time": "04:03 PM",
+    "next": "maghrib",
+    "place": "Kozhikode"
+  },
+  {
+    "id": 5,
+    "date": "05-02",
+    "value": "maghrib",
+    "name": "Maghrib",
+    "time": "06:34 PM",
+    "next": "isha",
+    "place": "Kozhikode"
+  },
+  {
+    "id": 6,
+    "date": "05-02",
+    "value": "isha",
+    "name": "Isha'a",
+    "time": "07:46 PM",
+    "next": "fajr",
+    "place": "Kozhikode"
+  },
+
+  {
+    "id": 1,
+    "date": "06-02",
+    "value": "fajr",
+    "name": "Fajar",
+    "time": "05:32 AM",
+    "next": "sunrise",
+    "place": "Kozhikode"
+  },
+  {
+    "id": 2,
+    "date": "06-02",
+    "value": "sunrise",
+    "name": "Sunrise",
+    "time": "06:49 AM",
+    "next": "dhuhr",
+    "place": "Kozhikode"
+  },
+  {
+    "id": 3,
+    "date": "06-02",
+    "value": "dhuhr",
+    "name": "Dhuhr",
+    "time": "12:43 PM",
+    "next": "asr",
+    "place": "Kozhikode"
+  },
+  {
+    "id": 4,
+    "date": "06-02",
+    "value": "asr",
+    "name": "Asr",
+    "time": "04:03 PM",
+    "next": "maghrib",
+    "place": "Kozhikode"
+  },
+  {
+    "id": 5,
+    "date": "06-02",
+    "value": "maghrib",
+    "name": "Maghrib",
+    "time": "06:34 PM",
+    "next": "isha",
+    "place": "Kozhikode"
+  },
+  {
+    "id": 6,
+    "date": "06-02",
+    "value": "isha",
+    "name": "Isha'a",
+    "time": "07:46 PM",
+    "next": "fajr",
+    "place": "Kozhikode"
+  }
+]
